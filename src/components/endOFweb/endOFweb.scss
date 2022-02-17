@@ -1,0 +1,18 @@
+.endofweb {
+    background-color: #ff5601;
+    border-radius: 0px 0px 15px 15px;
+    height: 90px;
+    position: absolute;
+    width: 100%;
+
+    pre {
+        font-family: Arial;
+        font-size: 10px;
+        margin-left: 90px;
+    }
+
+    select {
+        margin-left: 240px;
+        width: 150px;
+    }
+}

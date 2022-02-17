@@ -1,0 +1,77 @@
+.homepage {
+    background-color: #ffaf4c;
+
+    .logobanner {
+        width: 100%;
+        height: 323px;
+        background-color: #fe5604;
+
+        .logobanner-logobanner {
+            width: 100%;
+            height: 318px;
+        }
+    }
+
+    .dowload {
+        margin-top: 15px;
+
+        span {
+            margin-left: 70px;
+
+            figure {
+                display: inline-block;
+                margin: 0.5px 2px;
+
+
+                figcaption {
+                    font-size: 9px;
+                    color: rgb(209, 9, 50);
+                    padding: 3px 5px;
+                }
+
+                img {
+                    height: 35px;
+                }
+            }
+
+        }
+    }
+
+    .advertisement {
+        height: 30px;
+
+        a {
+            margin-left: 140px;
+            color: #fe5604;
+            text-decoration: none;
+        }
+    }
+
+    .line {
+        background-color: #fe5604;
+        height: 3px;
+    }
+
+    .title {
+        color: #fe5604;
+        font-size: 17px;
+        font-weight: bold;
+        margin-left: 5px;
+    }
+
+    .content {
+
+        ul {
+            list-style-type: none;
+            margin-left: 66px;
+
+            li {
+                display: inline;
+                margin-left: 3px;
+            }
+
+        }
+    }
+
+
+}
